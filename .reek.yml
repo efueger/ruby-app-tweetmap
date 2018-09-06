@@ -1,6 +1,4 @@
 ---
 detectors:
   UncommunicativeVariableName:
-  accept:
-    - v
-
+    enabled: false
